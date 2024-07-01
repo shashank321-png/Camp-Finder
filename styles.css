@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  
+  .customers-list {
+    width: 45%;
+    cursor: pointer;
+  }
+  
+  .customer-details {
+    width: 45%;
+  }
+  
+  /* Add more styles as needed */
+  
